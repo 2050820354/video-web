@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12195413",
+      "name": "robot_2",
+      "font_class": "robot_",
+      "unicode": "ecb7",
+      "unicode_decimal": 60599
+    },
+    {
+      "icon_id": "18389514",
+      "name": "电脑",
+      "font_class": "computer-01",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    }
+  ]
+}
